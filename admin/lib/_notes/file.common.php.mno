@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_status_file" value="name:status_type_file;datatype:blob,name:status_max_file;datatype:int" />
+</info>

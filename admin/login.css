@@ -1,0 +1,9 @@
+.ttl {
+	font-family: verdana,arial,helvetica;
+	font-size: 10pt;
+	color: black;
+	border-top: silver 1px solid;
+	border-right: silver 1px solid;
+	border-bottom: silver 1px solid;
+}
+input { padding: 3px; border: 1px solid #fba566; }

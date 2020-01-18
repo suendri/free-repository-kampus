@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:utama_title;datatype:string,name:utama_link;datatype:string,name:NotActive;datatype:string" />
+</info>

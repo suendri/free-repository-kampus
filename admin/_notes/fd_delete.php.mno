@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fd_del" value="name:feed_id;datatype:int,name:feed_nama;datatype:blob,name:feed_email;datatype:blob,name:feed_pesan;datatype:blob,name:NotActive;datatype:string" />
+</info>

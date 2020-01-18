@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:status_id;datatype:int,name:status_nama;datatype:string,name:status_moto;datatype:string,name:status_kontak;datatype:string,name:status_kaki;datatype:string,name:status_type_file;datatype:blob,name:status_max_file;datatype:int,name:tanggal;datatype:date" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_jurnal" value="name:id_jurnal;datatype:int,name:nama_penulis;datatype:string,name:title_jurnal;datatype:string,name:name;datatype:string,name:type;datatype:string,name:size;datatype:int,name:path;datatype:string,name:NotActive;datatype:string" />
+</info>

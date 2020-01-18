@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_help_edit" value="name:id_bantuan;datatype:int,name:pertanyaan;datatype:string,name:jawaban;datatype:string" />
+</info>

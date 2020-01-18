@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_admstatus" value="name:status_nama;datatype:string,name:status_moto;datatype:string,name:status_kontak;datatype:string,name:status_kaki;datatype:string" />
+</info>
